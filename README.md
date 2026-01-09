@@ -81,6 +81,7 @@ Designed for **sports analysts, tournament organizers, data analysts, and tennis
 |`game_database.sql`|	SQL script to create database schema and tables |
 |`game_query.sql`|	SQL queries used for analytics, KPIs, and dashboard visualizations |
 |`requirements.txt`|	Python dependencies required to run the project |
+|`Tennis Analytics Dashboard Insights Report.docs`| Detail Report |
 
 ------------------------------------------------------------------------
 
